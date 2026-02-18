@@ -116,6 +116,9 @@
       {
         "address": "https://cronos.drpc.org",
         "provider": "dRPC"
+      },
+        "address": "https://rpc.cronos.srvs.vnodesv.net",
+        "provider": "vNodes[V] ser[V]ices"
       }
     ],
     "rest": [
@@ -126,6 +129,9 @@
       {
         "address": "https://cronos-rest.publicnode.com",
         "provider": "Allnodes ⚡️ Nodes & Staking"
+      },
+        "address": "https://api.cronos.srvs.vnodesv.net",
+        "provider": "vNodes[V] ser[V]ices"
       }
     ],
     "grpc": [
@@ -136,6 +142,9 @@
       {
         "address": "cronos-grpc.publicnode.com:443",
         "provider": "Allnodes ⚡️ Nodes & Staking"
+      },
+        "address": "https://cronos.srvs.vnodesv.net/grpc",
+        "provider": "vNodes[V] ser[V]ices"
       }
     ],
     "evm-http-jsonrpc": [
@@ -146,6 +155,9 @@
       {
         "address": "https://cronos-evm.publicnode.com",
         "provider": "Allnodes.com ⚡️ Nodes & Staking"
+      },
+        "address": "https://cronos.srvs.vnodesv.net/evm",
+        "provider": "vNodes[V] ser[V]ices"
       }
     ]
   },
