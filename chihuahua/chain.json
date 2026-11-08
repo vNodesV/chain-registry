@@ -154,7 +154,7 @@
         "address": "https://chihuahua-rpc.polkachu.com:443",
         "provider": "Polkachu"
       },
-            {
+      {
         "address": "https://huahua-srvs.vnodesv.net/rpc",
         "provider": "vNodes[V] Ser[V]ices"
       }
